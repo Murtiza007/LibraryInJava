@@ -11,7 +11,7 @@ public class App {
        Member m=new Member("ahmad", 1001);
         while (true) {
             System.out.println("Press 1 to add the book"); 
-            System.out.println("Press 2 to view the books"); 
+            System.out.println("Press 2 to view the books");
             System.out.println("Press 3 to remove the book"); 
             System.out.println("Press 4 to borrow the book"); 
             System.out.println("Press 5 to return the book"); 
